@@ -1,4 +1,4 @@
-# hello-_world
+# hello-_world (An amazing Article)
 # Intro hello world for git 
 
 # Author: Kevin Croker
